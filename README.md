@@ -8,17 +8,15 @@
 
 ## Working <a href="https://github.com/phamhoanxda"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/i-h-c-x-y-d-ng/image/upload/v1612518815/CV%20Image/Avata_fcpkwx.png"></a>
 
-- `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
-- `Instructor` at Nordic Coder: [view it on Nordic Coder website](https://nordiccoder.com/khoa-hoc/khoa-hoc-web-front-end-development/)
-- `Owner` of a `more than 5k subs` Youtube Channel sharing about Frontend: `Easy Frontend` [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
-- `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts.
+- `Owner` at Bim Cau Duong: [https://bimcauduong.com/](https://bimcauduong.com/)
+- `Owner` at RevitandDynamoCauDuong: [https://www.facebook.com/Revit-Dynamo-C%E1%BA%A7u-%C4%90%C6%B0%E1%BB%9Dng-2250352321663742](https://www.facebook.com/Revit-Dynamo-C%E1%BA%A7u-%C4%90%C6%B0%E1%BB%9Dng-2250352321663742)
+- `Owner`of Youtube Channel sharing about Revit and Dynamo Birdge: `BIM CAU DUONG` [https://www.youtube.com/channel/UCjX4uuW4dfUlwNXFyByl4Pw](https://www.youtube.com/channel/UCjX4uuW4dfUlwNXFyByl4Pw)
+- `Dev` at TTD: [https://ttdesignco.com/](https://ttdesignco.com/)
 
 ## Projects for teaching
-
-- Tic tac toe game: https://github.com/paulnguyen-mn/js-tic-tac-toe
-- Color matching game: https://github.com/paulnguyen-mn/color-matching-game
+- Revit and Dynamo Cau Duong: https://bimcauduong.com/khoa-hoc-revit-dynamo-cau-duong/
+- C Sharp and Revit API Basic: https://github.com/phamhoanxda/C-Sharp-RevitAPI
 
 ## Projects for sharing
-
-- use-scroll-progress hook: https://github.com/paulnguyen-mn/use-scroll-progress
-- ReactJS App: https://github.com/paulnguyen-mn/redux-photo-app
+- Traffic video detection: https://github.com/phamhoanxda/Traffic-Video-Detection
+- MERN Stack: https://github.com/phamhoanxda/Mern-Stack-Project
