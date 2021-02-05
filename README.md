@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://res.cloudinary.com/i-h-c-x-y-d-ng/image/upload/v1612518814/CV%20Image/Fanpage_tqde7c.jpg)
 
-# Pham Hoan Xda - BIM/CIM Civil Engineer and Developer
+# Pham Hoan xda - BIM/CIM Civil Engineer and Developer
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
