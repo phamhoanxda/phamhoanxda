@@ -3,7 +3,7 @@
 # Pham Hoan xda - BIM/CIM Civil Engineer and Developer
 
 - Open and friendly.
-- Love to learn new things, especially things related to Frontend stacks.
+- Love to learn new things, especially things related to BIM technology.
 - Enjoy working with .Net ❤
 
 ## Working <a href="https://github.com/phamhoanxda"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/i-h-c-x-y-d-ng/image/upload/v1612518815/CV%20Image/Avata_fcpkwx.png"></a>
