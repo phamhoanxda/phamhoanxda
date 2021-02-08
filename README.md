@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://res.cloudinary.com/i-h-c-x-y-d-ng/image/upload/v1612518814/CV%20Image/Fanpage_tqde7c.jpg)
+![phamhoanxda banner](https://res.cloudinary.com/i-h-c-x-y-d-ng/image/upload/v1612518814/CV%20Image/Fanpage_tqde7c.jpg)
 
 # Pham Hoan xda - BIM/CIM Civil Engineer and Developer
 
